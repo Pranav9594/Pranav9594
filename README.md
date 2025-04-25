@@ -30,7 +30,7 @@
   <a href="https://www.linkedin.com/in/pranav-jadhav-9a6a17317" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:pranavjadhav2908@gmail.com">
+  <a href="pranavjadhav2908@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Pranav9594" target="_blank">
