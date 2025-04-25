@@ -11,13 +11,6 @@
 
 ---
 
-## 🐾 Just for Fun
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/5c78a8fb-c897-43c5-8842-f5b7d3d3f80e" alt="PusheenFastGIF" />
-</p>
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
