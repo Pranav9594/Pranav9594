@@ -9,6 +9,10 @@
   <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="400" alt="Coding animation" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pranav9594&label=Profile%20Views&color=0e75b6&style=flat" alt="Pranav9594" />
+</p>
+
 ---
 
 ## 🛠️ Tech Stack
