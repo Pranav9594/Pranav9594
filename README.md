@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Pranav Sopan Jadhav</h1>
-<h3 align="center">🎓 BCA Student | 🌐 Web Developer | 💻 Programming Enthusiast</h3>
+<h3 align="center">🎓 BCA Student | 💻 Programming Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0FF7EC&center=true&vCenter=true&width=435&lines=Code.+Learn.+Build.+Repeat.;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
@@ -46,5 +46,3 @@
 
 > Everything is Easy when you are Busy...>
 
-
-,.... -..,., u3uj3k3k3k33j3j3ruuuruurururr
