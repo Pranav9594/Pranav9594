@@ -44,7 +44,4 @@
 
 ---
 
-> Everything is Easy when you are Busy...>
-
-
-nhhbnwnenejeehehebehehehehehehehjjjeeje
+> Everything is Easy when you are busy... 
