@@ -1,4 +1,4 @@
-c<h1 align="center">👋 Hi, I'm Pranav Sopan Jadhav</h1>
+<h1 align="center">👋 Hi, I'm Pranav Sopan Jadhav</h1>
 <h3 align="center">🎓 BCA Student | 💻 Programming Enthusiast</h3>
 
 <p align="center">
@@ -44,4 +44,3 @@ c<h1 align="center">👋 Hi, I'm Pranav Sopan Jadhav</h1>
 
 ---
 > Everything is Easy when you are busy...
-uuuuuuuuuuuuuuuuuuuuuuuu
