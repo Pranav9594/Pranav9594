@@ -44,4 +44,3 @@ f<h1 align="center">👋 Hi, I'm Pranav Sopan Jadhav</h1>
 
 ---
 > Everything is Easy when you are busy...
-yyyyyyyyyyytttttttt[rrfggggggg
