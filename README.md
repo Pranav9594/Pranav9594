@@ -43,5 +43,4 @@
 </p>
 
 ---
-> Everything is Easy when you are busy...
-75uttyrurgrhdrj5uf5uftyh
+> Everything is Easy when you are busy... 
