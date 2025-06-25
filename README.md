@@ -43,4 +43,4 @@
 </p>
 
 ---
-> Everything is Easy when you are busy... 
+> Everything is Easy when you are busy
