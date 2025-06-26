@@ -34,17 +34,16 @@
   <!-- Programming Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C" />
-
-  <!-- Databases & Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
-  <img src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-icon.png" height="50" alt="Supabase" />
-  <img src="https://img.icons8.com/color/48/000000/firebase.png" height="50" alt="Firebase" />
-
+  
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" />
 
   <!-- Hosting Platforms -->
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-icon.png" height="50" alt="Supabase" />
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" height="50" alt="Firebase" />
+
   <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/vercel/logo.png" height="50" alt="Vercel" />
   <img src="https://www.netlify.com/v3/img/components/logomark.png" height="40" alt="Netlify" />
   <img src="https://img.icons8.com/fluency/48/google-cloud.png" height="50" alt="Google Cloud" />
