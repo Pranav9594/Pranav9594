@@ -10,8 +10,17 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pranav9594&label=Profile%20Views&color=0e75b6&style=flat" alt="Pranav9594" />
+  <img src="https://komarev.com/ghpvc/?username=Pranav9594&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
+---
+
+## 🚀 About Me
+
+- 🔭 I’m currently learning **Full Stack Development**
+- 🌱 Exploring technologies like **React**, **Firebase**, and **Supabase**
+- ⚡ Passionate about building real-world web apps
+- 📚 Always looking for opportunities to grow and collaborate
 
 ---
 
@@ -21,9 +30,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C Language" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranav9594&show_icons=true&theme=radical" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav9594&layout=compact&theme=radical" width="45%"/>
 </p>
 
 ---
@@ -43,4 +61,5 @@
 </p>
 
 ---
-> Everything is Easy when you are busy...
+
+> 💬 *"Everything is easy when you are busy..."*
