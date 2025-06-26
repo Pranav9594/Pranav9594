@@ -38,7 +38,7 @@
 
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
-  <img src="https://supabase.com/_next/image?url=%2Fimages%2Flogos%2Fsupabase-logo-icon.png&w=96&q=75" height="50" alt="Supabase" />
+  <img src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-icon.png" height="50" alt="Supabase" />
   <img src="https://img.icons8.com/color/48/000000/firebase.png" height="50" alt="Firebase" />
 
   <!-- Tools -->
