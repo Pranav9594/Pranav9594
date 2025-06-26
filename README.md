@@ -25,7 +25,6 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
@@ -36,7 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C" />
 
-  <!-- Databases -->
+  <!-- Databases & Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
   <img src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-icon.png" height="50" alt="Supabase" />
   <img src="https://img.icons8.com/color/48/000000/firebase.png" height="50" alt="Firebase" />
@@ -44,15 +43,10 @@
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" />
-</p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranav9594&show_icons=true&theme=radical" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav9594&layout=compact&theme=radical" width="45%"/>
+  <!-- Hosting Platforms -->
+  <img src="https://assets.vercel.com/image/upload/v1662130559/next/vercel/logo-light.png" height="40" alt="Vercel" />
+  <img src="https://www.netlify.com/v3/img/components/logomark.png" height="40" alt="Netlify" />
 </p>
 
 ---
