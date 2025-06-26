@@ -47,6 +47,7 @@
   <!-- Hosting Platforms -->
   <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/vercel/logo.png" height="50" alt="Vercel" />
   <img src="https://www.netlify.com/v3/img/components/logomark.png" height="40" alt="Netlify" />
+  <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" height="50" alt="Google Cloud" />
 </p>
 
 ---
