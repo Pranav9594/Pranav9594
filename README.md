@@ -18,7 +18,7 @@
 ## 🚀 About Me
 
 - 🔭 I’m currently learning **Full Stack Development**
-- 🌱 Exploring technologies like **React**, **Firebase**, and **Supabase**
+- 🌱 Exploring technologies like **React**, **Firebase**, **Supabase**, and **TypeScript**
 - ⚡ Passionate about building real-world web apps
 - 📚 Always looking for opportunities to grow and collaborate
 
@@ -27,12 +27,24 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
+  <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" />
+
+  <!-- Programming Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C" />
+
+  <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-supabase-an-open-source-firebase-alternative-logo-shadow-tal-revivo.png" height="50" alt="Supabase" />
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" height="50" alt="Firebase" />
+
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" />
 </p>
 
 ---
