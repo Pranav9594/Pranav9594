@@ -22,11 +22,10 @@
 - ⚡ Passionate about building real-world web apps
 - 📚 Always looking for opportunities to grow and collaborate
 
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
+
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
@@ -39,8 +38,7 @@
 
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
- <img src="https://supabase.com/_next/image?url=%2Fimages%2Flogos%2Fsupabase-logo-icon.png&w=96&q=75" height="50" alt="Supabase" />
-
+  <img src="https://supabase.com/_next/image?url=%2Fimages%2Flogos%2Fsupabase-logo-icon.png&w=96&q=75" height="50" alt="Supabase" />
   <img src="https://img.icons8.com/color/48/000000/firebase.png" height="50" alt="Firebase" />
 
   <!-- Tools -->
