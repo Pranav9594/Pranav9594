@@ -18,7 +18,7 @@
 ## 🚀 About Me
 
 - 🔭 I’m currently learning **Full Stack Development**
-- 🌱 Exploring technologies like **React**, **Firebase**, **Supabase**, and **TypeScript**
+- 🌱 Exploring technologies 
 - ⚡ Passionate about building real-world web apps
 - 📚 Always looking for opportunities to grow and collaborate
 
