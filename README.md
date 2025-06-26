@@ -45,7 +45,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" />
 
   <!-- Hosting Platforms -->
-  <img src="https://raw.githubusercontent.com/vercel/brand/main/packages/assets/logos/vercel-logotype-dark.svg" height="50" alt="Vercel" />
+  <img src="https://raw.githubusercontent.com/vercel/brand/main/packages/assets/logos/icon-dark.svg" height="50" alt="Vercel" />
   <img src="https://www.netlify.com/v3/img/components/logomark.png" height="40" alt="Netlify" />
 </p>
 
