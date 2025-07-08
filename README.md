@@ -52,7 +52,7 @@
 ---
 ## 📊 GitHub Stats
 
-![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranav9594&show_icons=true&theme=radical&hide_border=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav9594&layout=compact&theme=radical&hide_border=true)
 
 ## 📬 Let's Connect
