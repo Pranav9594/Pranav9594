@@ -50,10 +50,6 @@
   <img src="https://img.icons8.com/fluency/48/google-cloud.png" style="height:40px; margin:8px;" alt="Google Cloud" />
 </p>
 ---
-## 📊 GitHub Stats
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav9594&layout=compact&theme=radical&hide_border=true)
 
 ## 📬 Let's Connect
 
