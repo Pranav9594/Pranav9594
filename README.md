@@ -49,51 +49,6 @@
   <img src="https://www.netlify.com/v3/img/components/logomark.png" style="height:40px; margin:8px;" alt="Netlify" />
   <img src="https://img.icons8.com/fluency/48/google-cloud.png" style="height:40px; margin:8px;" alt="Google Cloud" />
 </p>
-
----
-
----
-
-## 📊 Languages I Work With
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,ts" alt="Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav9594&layout=compact&theme=radical&langs_count=6" alt="Top Languages Used" />
-</p>
-
-<div align="center">
-  <table>
-    <tr>
-      <th align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px" /></th>
-      <th align="center">HTML5</th>
-      <td><progress value="80" max="100" style="width: 200px;"></progress> 80%</td>
-    </tr>
-    <tr>
-      <th align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px" /></th>
-      <th align="center">CSS3</th>
-      <td><progress value="75" max="100" style="width: 200px;"></progress> 75%</td>
-    </tr>
-    <tr>
-      <th align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px" /></th>
-      <th align="center">JavaScript</th>
-      <td><progress value="85" max="100" style="width: 200px;"></progress> 85%</td>
-    </tr>
-    <tr>
-      <th align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30px" /></th>
-      <th align="center">Python</th>
-      <td><progress value="70" max="100" style="width: 200px;"></progress> 70%</td>
-    </tr>
-    <tr>
-      <th align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30px" /></th>
-      <th align="center">C</th>
-      <td><progress value="50" max="100" style="width: 200px;"></progress> 50%</td>
-    </tr>
-  </table>
-</div>
-
 ---
 
 > 💬 *“Everything is easy when you are busy.”*  
