@@ -22,8 +22,6 @@
 - ⚡ Passionate about building real-world web applications
 - 📚 Always seeking opportunities to grow and collaborate
 
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -49,6 +47,24 @@
   <img src="https://www.netlify.com/v3/img/components/logomark.png" style="height:40px; margin:8px;" alt="Netlify" />
   <img src="https://img.icons8.com/fluency/48/google-cloud.png" style="height:40px; margin:8px;" alt="Google Cloud" />
 </p>
+
+
+---
+
+## 📬 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pranav-jadhav-9a6a17317" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:pranavjadhav2908@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Pranav9594" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 > 💬 *“Everything is easy when you are busy.”*  
