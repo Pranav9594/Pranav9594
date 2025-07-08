@@ -22,6 +22,8 @@
 - ⚡ Passionate about building real-world web applications
 - 📚 Always seeking opportunities to grow and collaborate
 
+---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
