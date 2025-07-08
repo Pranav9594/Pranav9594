@@ -22,6 +22,8 @@
 - ⚡ Passionate about building real-world web applications
 - 📚 Always seeking opportunities to grow and collaborate
 
+---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -48,6 +50,21 @@
   <img src="https://img.icons8.com/fluency/48/google-cloud.png" style="height:40px; margin:8px;" alt="Google Cloud" />
 </p>
 
+---
+
+## 📊 Languages I Work With
+
+<div align="center">
+  <h4>Language Usage (Approx. Based on GitHub Repositories)</h4>
+
+  <div style="max-width:500px;">
+    <div style="background:#f1e05a; color:#000; padding:8px; margin:4px 0; border-radius:6px; width:70%;">JavaScript – 70%</div>
+    <div style="background:#e34c26; color:#fff; padding:8px; margin:4px 0; border-radius:6px; width:50%;">HTML – 50%</div>
+    <div style="background:#563d7c; color:#fff; padding:8px; margin:4px 0; border-radius:6px; width:35%;">CSS – 35%</div>
+    <div style="background:#3572A5; color:#fff; padding:8px; margin:4px 0; border-radius:6px; width:40%;">Python – 40%</div>
+    <div style="background:#555555; color:#fff; padding:8px; margin:4px 0; border-radius:6px; width:20%;">C – 20%</div>
+  </div>
+</div>
 
 ---
 
@@ -68,4 +85,3 @@
 ---
 
 > 💬 *“Everything is easy when you are busy.”*  
-
