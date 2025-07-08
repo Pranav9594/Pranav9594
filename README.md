@@ -52,35 +52,47 @@
 
 ---
 
-## 📊 Languages I Work With
-
-<div align="center">
-  <h4>Language Usage (Approx. Based on GitHub Repositories)</h4>
-
-  <div style="max-width:500px;">
-    <div style="background:#f1e05a; color:#000; padding:8px; margin:4px 0; border-radius:6px; width:70%;">JavaScript – 70%</div>
-    <div style="background:#e34c26; color:#fff; padding:8px; margin:4px 0; border-radius:6px; width:50%;">HTML – 50%</div>
-    <div style="background:#563d7c; color:#fff; padding:8px; margin:4px 0; border-radius:6px; width:35%;">CSS – 35%</div>
-    <div style="background:#3572A5; color:#fff; padding:8px; margin:4px 0; border-radius:6px; width:40%;">Python – 40%</div>
-    <div style="background:#555555; color:#fff; padding:8px; margin:4px 0; border-radius:6px; width:20%;">C – 20%</div>
-  </div>
-</div>
-
 ---
 
-## 📬 Let's Connect
+## 📊 Languages I Work With
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pranav-jadhav-9a6a17317" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:pranavjadhav2908@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Pranav9594" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,ts" alt="Languages" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav9594&layout=compact&theme=radical&langs_count=6" alt="Top Languages Used" />
+</p>
+
+<div align="center">
+  <table>
+    <tr>
+      <th align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px" /></th>
+      <th align="center">HTML5</th>
+      <td><progress value="80" max="100" style="width: 200px;"></progress> 80%</td>
+    </tr>
+    <tr>
+      <th align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px" /></th>
+      <th align="center">CSS3</th>
+      <td><progress value="75" max="100" style="width: 200px;"></progress> 75%</td>
+    </tr>
+    <tr>
+      <th align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px" /></th>
+      <th align="center">JavaScript</th>
+      <td><progress value="85" max="100" style="width: 200px;"></progress> 85%</td>
+    </tr>
+    <tr>
+      <th align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30px" /></th>
+      <th align="center">Python</th>
+      <td><progress value="70" max="100" style="width: 200px;"></progress> 70%</td>
+    </tr>
+    <tr>
+      <th align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30px" /></th>
+      <th align="center">C</th>
+      <td><progress value="50" max="100" style="width: 200px;"></progress> 50%</td>
+    </tr>
+  </table>
+</div>
 
 ---
 
