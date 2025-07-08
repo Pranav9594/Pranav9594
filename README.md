@@ -50,49 +50,6 @@
 
 
 ---
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Languages Used</title>
-  <style>
-    .lang-chart { max-width: 500px; margin: auto; }
-    .lang-bar {
-      height: 24px;
-      background-color: #ddd;
-      margin: 8px 0;
-      position: relative;
-      border-radius: 4px;
-      overflow: hidden;
-    }
-    .lang-fill {
-      height: 100%;
-      color: white;
-      padding-left: 8px;
-      display: flex;
-      align-items: center;
-      font-weight: bold;
-    }
-  </style>
-</head>
-<body>
-  <h2>Languages Used in My GitHub Repositories</h2>
-  <div class="lang-chart">
-    <div class="lang-bar">
-      <div class="lang-fill" style="width: 50%; background-color: #f1e05a;">JavaScript 50%</div>
-    </div>
-    <div class="lang-bar">
-      <div class="lang-fill" style="width: 25%; background-color: #3572A5;">Python 25%</div>
-    </div>
-    <div class="lang-bar">
-      <div class="lang-fill" style="width: 15%; background-color: #e34c26;">HTML 15%</div>
-    </div>
-    <div class="lang-bar">
-      <div class="lang-fill" style="width: 10%; background-color: #563d7c;">CSS 10%</div>
-    </div>
-  </div>
-</body>
-</html>
 
 ## 📬 Let's Connect
 
