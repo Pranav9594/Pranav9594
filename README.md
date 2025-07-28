@@ -35,7 +35,7 @@
 
   <!-- Programming Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height:40px; margin:8px;" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="height:40px; margin:8px;" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" style="height:40px; margin:8px;" alt="C" />
   
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height:40px; margin:8px;" alt="Git" />
@@ -59,13 +59,4 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:pranavjadhav2908@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Pranav9594" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-> 💬 *“Everything is easy when you are busy”*  
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-
