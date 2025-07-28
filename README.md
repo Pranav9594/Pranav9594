@@ -35,7 +35,8 @@
 
   <!-- Programming Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height:40px; margin:8px;" alt="Python" />
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" style="height:40px; margin:8px;" alt="C Language" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="height:40px; margin:8px;" alt="C" />
+
 
 
   
