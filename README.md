@@ -15,7 +15,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/Le1FvT1OaGJsk/giphy.gif" width="40" align="center"/> About Me
+## 🚀 About Me <img src="assets/aboutme.svg" width="40" align="center"/>
 
 - 🔭 Currently diving into **Full Stack Web Development**
 - 🌱 Constantly exploring new technologies
@@ -24,7 +24,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif" width="40" align="center"/> Tech Stack
+## 🛠️ Tech Stack <img src="assets/techstack.svg" width="40" align="center"/>
 
 <p align="center">
   <!-- Frontend -->
@@ -52,7 +52,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40" align="center"/> Let's Connect
+## 📬 Let's Connect <img src="assets/connect.svg" width="40" align="center"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pranav-jadhav-9a6a17317" target="_blank">
