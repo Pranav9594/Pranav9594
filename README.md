@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me <img src="assets/aboutme.svg" width="40" align="center"/>
 
 - 🔭 Currently diving into **Full Stack Web Development**
 - 🌱 Constantly exploring new technologies
@@ -24,7 +24,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack <img src="assets/techstack.svg" width="40" align="center"/>
 
 <p align="center">
   <!-- Frontend -->
@@ -36,7 +36,6 @@
   <!-- Programming Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height:40px; margin:8px;" alt="Python" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C Language" style="height:40px; margin:8px;" />
-
 
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height:40px; margin:8px;" alt="Git" />
@@ -53,7 +52,7 @@
 
 ---
 
-## 📬 Let's Connect
+## 📬 Let's Connect <img src="assets/connect.svg" width="40" align="center"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pranav-jadhav-9a6a17317" target="_blank">
