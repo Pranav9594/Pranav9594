@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 About Me <img src="assets/aboutme.svg" width="40" align="center"/>
+## 🚀 About Me 
 
 - 🔭 Currently diving into **Full Stack Web Development**
 - 🌱 Constantly exploring new technologies
@@ -24,7 +24,7 @@
 
 ---
 
-## 🛠️ Tech Stack <img src="assets/techstack.svg" width="40" align="center"/>
+## 🛠️ Tech Stack 
 
 <p align="center">
   <!-- Frontend -->
