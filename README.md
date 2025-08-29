@@ -52,7 +52,7 @@
 
 ---
 
-## 📬 Let's Connect <img src="assets/connect.svg" width="40" align="center"/>
+## 📬 Let's Connect 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pranav-jadhav-9a6a17317" target="_blank">
