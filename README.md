@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm Pranav Sopan Jadhav</h1>
 <h3 align="center">🎓 BCA Student | 💻 Programming Enthusiast</h3>
- 
- <p align="center">
-  <img src="![AyanokojiGIF (2)](https://github.com/user-attachments/assets/f5501189-41bf-4470-a65c-bc17dc9b1c78)" alt="DjdjGIF" />
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f5501189-41bf-4470-a65c-bc17dc9b1c78" alt="AyanokojiGIF" />
 </p>
 
 <p align="center">
