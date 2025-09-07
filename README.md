@@ -2,8 +2,10 @@
 <h3 align="center">🎓 BCA Student | 💻 Programming Enthusiast</h3>
 
  <p align="center">
-  <img src="![PusheenFastGIF](https://github.com/user-attachments/assets/8870a6e7-3205-4bd1-be95-03155e75bdcb)
-" alt="SoloLevelingMonarchGIF" />
+  <img src= <p align="center">
+  <img src="https://github.com/user-attachments/assets/7378fea3-5404-454f-964c-12031d0a07a2" alt="SoloLevelingMonarchGIF" />
+</p>
+alt="SoloLevelingMonarchGIF" />
 </p>
                                                           
 <p align="center">
