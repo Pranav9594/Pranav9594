@@ -1,12 +1,10 @@
 <h1 align="center">👋 Hi, I'm Pranav Sopan Jadhav</h1>
 <h3 align="center">🎓 BCA Student | 💻 Programming Enthusiast</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/username/repo/main/assets/SupasoldaToromanGIF.gif" alt="Anime Reading GIF" width="400" />
+ 
+ <p align="center">
+  <img src="https://github.com/user-attachments/assets/db9debe2-cf17-4fb5-b73c-2ddfc79b20c6" alt="DjdjGIF" />
 </p>
 
-
-                                                          
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0FF7EC&center=true&vCenter=true&width=435&lines=Code.+Learn.+Build.+Repeat.;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
