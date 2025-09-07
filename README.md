@@ -2,7 +2,8 @@
 <h3 align="center">🎓 BCA Student | 💻 Programming Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7378fea3-5404-454f-964c-12031d0a07a2" alt="SoloLevelingMonarchGIF" />
+  <img src="![SupasoldaToromanGIF (2)](https://github.com/user-attachments/assets/2c5fd9f5-d26c-4d13-b31e-bb7818c7ecba)
+" alt="SoloLevelingMonarchGIF" />
 </p>
 
                                                           
