@@ -2,7 +2,7 @@
 <h3 align="center">🎓 BCA Student | 💻 Programming Enthusiast</h3>
  
  <p align="center">
-  <img src="https://github.com/user-attachments/assets/db9debe2-cf17-4fb5-b73c-2ddfc79b20c6" alt="DjdjGIF" />
+  <img src="![AyanokojiGIF (2)](https://github.com/user-attachments/assets/f5501189-41bf-4470-a65c-bc17dc9b1c78)" alt="DjdjGIF" />
 </p>
 
 <p align="center">
