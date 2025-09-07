@@ -2,7 +2,7 @@
 <h3 align="center">🎓 BCA Student | 💻 Programming Enthusiast</h3>
 
  <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXR3Yzl4bnRlb2o1eDVlN2g0YjZibHE3czNyaTc2bXJtM2Q1bGJobyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RdUDA3FdhIATND1HTr/giphy.gif" alt="SoloLevelingMonarchGIF" />
+  <img src=""C:\Users\prana\Downloads\tenor.gif"" alt="SoloLevelingMonarchGIF" />
 </p>
                                                           
 <p align="center">
