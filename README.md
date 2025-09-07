@@ -1,5 +1,6 @@
 <h1 align="center">👋 Hi, I'm Pranav Sopan Jadhav</h1>
 <h3 align="center">🎓 BCA Student | 💻 Programming Enthusiast</h3>
+![PusheenFastGIF](https://github.com/user-attachments/assets/264b74d5-403b-4fbd-ba3d-ff047c164767)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0FF7EC&center=true&vCenter=true&width=435&lines=Code.+Learn.+Build.+Repeat.;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
