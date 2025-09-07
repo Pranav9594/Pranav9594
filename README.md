@@ -2,7 +2,8 @@
 <h3 align="center">🎓 BCA Student | 💻 Programming Enthusiast</h3>
 
  <p align="center">
-  <img src="https://tenor.com/view/tengen-uzui-gyutaro-fight-scream-demon-slayer-gif-24792138" alt="SoloLevelingMonarchGIF" />
+  <img src="![PusheenFastGIF](https://github.com/user-attachments/assets/8870a6e7-3205-4bd1-be95-03155e75bdcb)
+" alt="SoloLevelingMonarchGIF" />
 </p>
                                                           
 <p align="center">
