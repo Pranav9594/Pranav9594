@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 About Me 
+## 🚀 About Me
 
 - 🔭 Currently diving into **Full Stack Web Development**
 - 🌱 Constantly exploring new technologies
@@ -24,7 +24,7 @@
 
 ---
 
-## 🛠️ Tech Stack (Styled Like Image)
+## 🛠️ Tech Stack
 
 <p align="center">
 
@@ -64,7 +64,7 @@
 
 ---
 
-## 📊 GitHub Stats (Exact Style From Your Image)
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pranav9594&show_icons=true&theme=tokyonight&include_all_commits=true" />
@@ -80,7 +80,31 @@
 
 ---
 
-## 📬 Let's Connect 
+## 🔥 Advanced Stats
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav9594&theme=tokyo-night" />
+</p>
+
+<!-- Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pranav9594&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" />
+</p>
+
+<!-- Achievements -->
+<p align="center">
+  <img src="https://github-profile-achievements.vercel.app/api/?username=Pranav9594&theme=tokyonight" />
+</p>
+
+<!-- Detailed Metrics -->
+<p align="center">
+  <img src="https://metrics.lecoq.io/Pranav9594?template=classic&isocalendar=1&languages=1&followup=1&achievements=1&introduction=1&lines=1&activity=1&pagespeed=1&base=header%2C%20activity%2C%20community%2C%20repositories&introduction.title=true&isocalendar.duration=full-year&languages.limit=8&languages.colors=github&languages.threshold=0%25&repositories=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=public&followup.sections=repositories&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=10&config.timezone=Asia%2FKolkata" />
+</p>
+
+---
+
+## 📬 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pranav-jadhav-9a6a17317" target="_blank">
@@ -94,4 +118,6 @@
   </a>
 </p>
 
-> 💬 “Everything is easy when you are busy”
+<p align="center">
+  💬 “Everything is easy when you are busy”
+</p>
