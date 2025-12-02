@@ -17,10 +17,10 @@
 
 ## 🚀 About Me 
 
-- 🔭 Currently diving into **Full Stack Web Development**
-- 🌱 Constantly exploring new technologies
-- ⚡ Passionate about building real-world web applications
-- 📚 Always seeking opportunities to grow and collaborate
+- 🔭 Learning Full Stack Web Development  
+- 🌱 Curious about modern tools and frameworks  
+- ⚡ Enjoy building practical projects  
+- 📚 Always open to learning and collaboration  
 
 ---
 
@@ -32,31 +32,31 @@
 
 <p align="center">
   <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:40px; margin:8px;" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height:40px; margin:8px;" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:40px; margin:8px;" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="height:40px; margin:8px;" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
 
   <!-- Programming Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height:40px; margin:8px;" alt="Python" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C Language" style="height:40px; margin:8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="40" alt="C Language" />
 
   <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height:40px; margin:8px;" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="height:40px; margin:8px;" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
 
-  <!-- Hosting Platforms / Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="height:40px; margin:8px;" alt="MySQL" />
-  <img src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-icon.png" style="height:40px; margin:8px;" alt="Supabase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="height:40px; margin:8px;" alt="Firebase" />
-  <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/vercel/logo.png" style="height:40px; margin:8px;" alt="Vercel" />
-  <img src="https://www.netlify.com/v3/img/components/logomark.png" style="height:40px; margin:8px;" alt="Netlify" />
-  <img src="https://img.icons8.com/fluency/48/google-cloud.png" style="height:40px; margin:8px;" alt="Google Cloud" />
+  <!-- Hosting / Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-icon.png" height="40" alt="Supabase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
+  <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/vercel/logo.png" height="40" alt="Vercel" />
+  <img src="https://www.netlify.com/v3/img/components/logomark.png" height="40" alt="Netlify" />
+  <img src="https://img.icons8.com/fluency/48/google-cloud.png" height="40" alt="Google Cloud" />
 </p>
 
 ---
 
-## 📬 Let's Connect 
+## 📬 Connect with Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pranav-jadhav-9a6a17317" target="_blank">
@@ -70,4 +70,4 @@
   </a>
 </p>
 
-> 💬 *“Everything is easy when you are busy”*
+> 💬 *“Everything is easy when you are busy.”*
