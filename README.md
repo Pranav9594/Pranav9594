@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Pranav Sopan Jadhav</h1> <h3 align="center">🎓 BCA Student | 💻 Programming Enthusiast</h3> <p align="center"> <img src="https://github.com/user-attachments/assets/f5501189-41bf-4470-a65c-bc17dc9b1c78" alt="AyanokojiGIF" /> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0FF7EC&center=true&vCenter=true&width=435&lines=Code.+Learn.+Build.+Repeat.;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Pranav9594&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 # 💫 About Me:
-🔭 Currently diving into **Full Stack Web Development**<br>- 🌱 Constantly exploring new technologies<br>- ⚡ Passionate about building real-world web applications<br>- 📚 Always seeking opportunities to grow and collaborate
+🔭 Currently diving into **Full Stack Web Development**<br> 🌱 Constantly exploring new technologies<br> ⚡ Passionate about building real-world web applications<br> 📚 Always seeking opportunities to grow and collaborate
 
 
 ## 🌐 Socials:
