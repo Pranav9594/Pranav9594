@@ -20,4 +20,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Pranav9594&icon=10&color=0)](https://visitcount.itsvg.in)
 
-"EVERYTHING IS EASY WHEN YOU ARE BUSY"
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0FF7EC&center=true&vCenter=true&width=600&lines=Everything+is+easy+when+you+are+busy." />
+</p>
