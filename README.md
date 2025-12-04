@@ -18,7 +18,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Pranav9594&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Pranav9594&icon=10&color=0)](https://visitcount.itsvg.in)
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0FF7EC&center=true&vCenter=true&width=600&lines=Everything+is+easy+when+you+are+busy." />
