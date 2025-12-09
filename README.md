@@ -18,9 +18,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Pranav9594&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav9594&layout=compact)
-![Stats](https://github-readme-stats.vercel.app/api?username=Pranav9594&show_icons=true)
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0FF7EC&center=true&vCenter=true&width=600&lines=Everything+is+easy+when+you+are+busy." />
