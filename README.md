@@ -4,7 +4,7 @@
 🔭 Currently diving into **Full Stack Web Development**  <br>🌱 Constantly exploring new technologies  <br>⚡ Passionate about building real-world web applications  <br>📚 Always seeking opportunities to grow and collaborate
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/pranav-jadhav-9a6a17317) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@pranavjadhav2908) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranavjadhav2908@gmail.com) 
 
 # 💻 Tech Stack:
@@ -14,7 +14,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Pranav9594&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav9594&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Pranav9594&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
 
 ---
