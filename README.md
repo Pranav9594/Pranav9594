@@ -18,6 +18,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Pranav9594&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav9594&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=Pranav9594&show_icons=true)
 
 
 <p align="center">
