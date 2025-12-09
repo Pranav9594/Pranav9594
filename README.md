@@ -6,13 +6,13 @@
 
 ## 🌐 Socials:
 <a href="https://linkedin.com/in/pranav-jadhav-9a6a17317">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="50">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="100">
 </a>
 <a href="https://medium.com/@pranavjadhav2908">
-  <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" height="50">
+  <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" height="100">
 </a>
 <a href="mailto:pranavjadhav2908@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="50">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="100">
 </a>
 
 ## 💻 Tech Stack:
