@@ -1,4 +1,5 @@
 <h1 align="center">👋 Hi, I'm Pranav Sopan Jadhav</h1> <h3 align="center">🎓 BCA Student | 💻 Programming Enthusiast</h3> 
+
 ## 💫 About Me:
 🔭 Currently diving into **Cloud Computing**  <br>🌱 Constantly exploring new technologies  <br>⚡ Passionate about building real-world web applications  <br>📚 Always seeking opportunities to grow and collaborate
 
